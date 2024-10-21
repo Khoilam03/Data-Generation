@@ -1,6 +1,0 @@
-$ = number
-@ = Lowercase character
-^ = Uppercase character
-
-
-$$$@@^ = 510gvA
